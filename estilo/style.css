@@ -13,11 +13,12 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-size: 1em;
     
 }
 
 html , body{
-    min-height: 5000vh;
+    min-height: 100vh;
     background-color: darkgrey;
     font-family: var(--fonte1);
 }
